@@ -9,7 +9,7 @@ public class RunnerTest
 	{
 		System.out.println("Base Test");
 		System.out.println("Base class");
-		///
+		System.out.println("Base suite");
 	}
 
 }
