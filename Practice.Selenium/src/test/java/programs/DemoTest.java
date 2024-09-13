@@ -7,7 +7,7 @@ public class DemoTest
 	@Test(groups="ST")
 	public void getDataTest()
 	{
-		System.out.println("Data is fetched from Demo");
+		System.out.println("Data is fetched from Demo class");
 	}
 	
 	@Test
