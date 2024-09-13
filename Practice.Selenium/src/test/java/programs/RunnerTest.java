@@ -8,6 +8,7 @@ public class RunnerTest
 	public void bsTest()
 	{
 		System.out.println("Base Test");
+		System.out.println("Base class");
 	}
 
 }
